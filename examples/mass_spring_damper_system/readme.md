@@ -1,1 +1,1 @@
-Mass-spring-damper system.
+Applications of the ADPT to a mass-spring-damper system.
