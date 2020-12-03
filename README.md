@@ -2,7 +2,11 @@
 
 The Adaptive Dynamic Programming Toolbox is a MATLAB-based software package that solves optimal control problems.
 
-The source codes for Section 4 `Applications to the Satellite Attitude Stabilizing Problem` of the manuscript `The Adaptive Dynamic Programming` are contained in the folder `simulations`.
+To use the toolbox, please add the folder `src` to MATLAB search path.
+
+Example codes of how to use the toolbox are contained in the folder `examples`.
+
+The source codes for Section 4 `Applications to the Satellite Attitude Stabilizing Problem` of the manuscript `The Adaptive Dynamic Programming Toolbox` are contained in the folder `simulations`.
 
 <br/>
 
