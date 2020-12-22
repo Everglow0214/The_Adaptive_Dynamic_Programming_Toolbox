@@ -2,7 +2,7 @@
 
 The Adaptive Dynamic Programming Toolbox (ADPT) is a MATLAB-based software package that solves optimal control problems.
 
-To use the toolbox, please add the folder `src` to MATLAB search path.
+To use the toolbox, please add the folder `adpt_src` to MATLAB search path.
 
 Example codes of how to use the toolbox are contained in the folder `examples`.
 
