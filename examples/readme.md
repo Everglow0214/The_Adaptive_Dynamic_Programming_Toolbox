@@ -1,1 +1,1 @@
-Source codes of the examples using the Adaptive Dynamic Programming Toolbox.
+Source codes of examples in the user's manual.
