@@ -1,3 +1,1 @@
-Some examples about using the Adaptive Dynamic Programming Toolbox.
-
-MATLAB R2019a.
+Source codes of the examples using the Adaptive Dynamic Programming Toolbox.
