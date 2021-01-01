@@ -11,4 +11,4 @@ All rights reserved.
 
 **Reference**
 
-[1] X. Xing and D. E. Chang, "The Adaptive Dynamic Programming Toolbox," 2020. [Online].
+[1] X. Xing and D. E. Chang, "The Adaptive Dynamic Programming Toolbox," 2020. [Online]. Available: https://arxiv.org/abs/2012.14654.
