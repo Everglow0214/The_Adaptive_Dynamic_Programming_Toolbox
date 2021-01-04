@@ -1,1 +1,1 @@
-Source codes of examples in the user's manual.
+Source codes of examples in the user manual.
