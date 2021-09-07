@@ -14,4 +14,4 @@ All rights reserved."
 
 **Reference**
 
-[1] X. Xing and D. E. Chang, "The Adaptive Dynamic Programming Toolbox," Preprint. [arXiv:2012.14654](https://arxiv.org/abs/2012.14654)
+[1] X. Xing and D. E. Chang, "The Adaptive Dynamic Programming Toolbox," *Sensors*, vol. 21, no. 16, p. 5609, Aug. 2021.
