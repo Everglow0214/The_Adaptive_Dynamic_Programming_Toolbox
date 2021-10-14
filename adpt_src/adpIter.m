@@ -84,8 +84,8 @@ for i = 1: iterMax
 
 %%%%% Without for loop %%%%%
         A_right = reshape(R * w_old * gamma_full, [], num)';
-        b_right = squeeze(sum((w_old' * R * w_old).*...
-            reshape(gamma_full, N2, N2, num), [1,2]));
+        b_right = squeeze(sum(sum((w_old' * R * w_old) .*...
+            reshape(gamma_full, N2, N2, num), 1), 2));
         
 %         b_right = reshape(sum((w_old' * R * w_old).*...
 %             reshape(gamma_full, N2, N2, num), [1,2]), num, 1);
