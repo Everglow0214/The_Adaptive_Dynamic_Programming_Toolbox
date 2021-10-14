@@ -430,7 +430,7 @@ fprintf(fid, '\n');
 fprintf(fid, '%s', char(VAdpSymDec));
 fprintf(fid, '\n\n');
 
-fprintf(fid, '%s', 'The files uAdp.p and VAdp.p have been');
+fprintf(fid, '%s', 'The files uAdp.m and VAdp.m have been');
 fprintf(fid, '%s', ' generated.');
 fprintf(fid, '\n\n');
 fprintf(fid, '%s', 'The approximate optimal control can be');
