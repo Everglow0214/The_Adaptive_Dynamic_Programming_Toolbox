@@ -157,7 +157,7 @@ fprintf('The approximate optimal cost function V(x) ');
 fprintf('(shown with 4 significant digits):\n\n');
 disp(VAdpSymDec);
 
-fprintf('The files uAdp.p and VAdp.p have been generated.\n\n');
+fprintf('The files uAdp.m and VAdp.m have been generated.\n\n');
 fprintf('The approximate optimal control can be applied by ');
 fprintf('calling\n');
 fprintf('>> u = uAdp(x)\n');
@@ -454,7 +454,7 @@ fprintf(fid, '\n');
 fprintf(fid, '%s', char(VAdpSymDec));
 fprintf(fid, '\n\n');
 
-fprintf(fid, '%s', 'The files uAdp.p and VAdp.p have been');
+fprintf(fid, '%s', 'The files uAdp.m and VAdp.m have been');
 fprintf(fid, '%s', ' generated.');
 fprintf(fid, '\n\n');
 fprintf(fid, '%s', 'The approximate optimal control can be');
